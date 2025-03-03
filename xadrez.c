@@ -32,6 +32,4 @@ scanf ("%f", &area);
 
 printf ("digite o PIB: \n");
 scanf ("%f", &PIB)
-
-return 0;
-}
+};
