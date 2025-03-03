@@ -10,7 +10,7 @@ int populacao;
 int turisticos;
 
 float area;
-float PIB
+float PIB;
 
 printf ("digite o estado: \n");
 scanf ("%s", &estado);
@@ -31,5 +31,5 @@ printf ("digite a area: \n");
 scanf ("%f", &area);
 
 printf ("digite o PIB: \n");
-scanf ("%f", &PIB)
-};
+scanf ("%f", &PIB);
+}
